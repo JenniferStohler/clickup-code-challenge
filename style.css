@@ -154,7 +154,7 @@ button:hover{
   position: absolute;
   width: 1117px;
   height: 560px;
-  top: 1400px;
+  top: 903.18px;
   left: 240px;
   border-radius: 50px;
   background-color:rgba(240, 99, 184, 0.15);
@@ -165,7 +165,7 @@ button:hover{
   position: absolute;
   width: 475px;
   height: 100px;
-  top: 1500px;
+  top: 1028.18px;
   left: 790px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
@@ -180,7 +180,7 @@ button:hover{
   position: absolute;
   width: 474px;
   height: 170px;
-  top: 1650px;
+  top: 1168.18px;
   left: 790px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
@@ -195,5 +195,109 @@ button:hover{
   width: 477px;
   height: 504px;
   left: 251px;
-  top: 1450px;
+  top: 935px;
+}
+
+.featuresHeadline{
+  position: absolute;
+  width: 405px;
+  height: 52px;
+  left: 700px;
+  top: 1613px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style:normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color:#212353;
+}
+
+.featuresText{
+  position: absolute;
+  width: 584px;
+  height: 58px;
+  left: 507.29px;
+  top: 1715px;
+  font-family:Helvetica;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+  text-align: center;
+  color:#4B5D68;
+}
+
+.searchData{
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 500.29px;
+  top: 1922px;
+  font-family: Helvetica;
+  font-style:normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 130%;
+  display:flex;
+  align-items: center;
+  color:#212353;
+}
+
+.searchText{
+  position: absolute;
+  width: 220px;
+  height: 160px;
+  left: 500.29px;
+  top: 1992px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style:normal;
+  font-weight:normal;
+  font-size: 16px;
+  line-height: 160%;
+  color: #4B5D68;
+}
+
+.image3{
+  position: absolute;
+  width: 232px;
+  height: 211px;
+  left: 239px;
+  top: 1946px;
+}
+
+.rectangle4{
+  position: absolute;
+  width: 442px;
+  height: 358px;
+  left: 328.29px;
+  top: 1873px;
+  background-color: #68C9BA;
+  opacity: 0.1;
+  border-radius: 50px;
+}
+
+.ellipse{
+  position: absolute;
+  width: 33.7px;
+  height: 19.91px;
+  left: 621.4px;
+  top: 1916.88px;
+  border: 1.5px solid #FFFFFF;
+  transform: rotate(20.72deg);
+  mix-blend-mode: normal;
+  border-radius: 50px;
+}
+
+.vector2{
+  position: absolute;
+  width: 203.82px;
+  height: 118.6px;
+  left: 674.41px;
+  top: 2070.99px;
+  border: 1.5px solid #FFFFFF;
+  border-radius: 80px;
+  transform: rotate(-135deg);
 }
