@@ -292,7 +292,6 @@ button:hover{
   line-height: 160%;
   display: flex;
   align-items:center;
-  letter-spacing: 0.005em;
 }
 
 .ellipse{
@@ -301,21 +300,14 @@ button:hover{
   height: 19.91px;
   left: 621.4px;
   top: 1916.88px;
-  border: 1.5px solid #FFFFFF;
-  transform: rotate(20.72deg);
-  mix-blend-mode: normal;
-  border-radius: 50px;
 }
 
 .vector2{
   position: absolute;
-  width: 203.82px;
   height: 118.6px;
-  left: 674.41px;
-  top: 2070.99px;
-  border: 1.5px solid #FFFFFF;
-  border-radius: 80px;
-  transform: rotate(-135deg);
+  width: 203.82px;
+  left: 550.41px;
+  top: 1885.99px;
 }
 
 .hoursHeadline{
@@ -352,6 +344,14 @@ button:hover{
   left: 813px;
   top: 1980px; 
 }
+.vector56{
+  position: absolute;
+  width:222.22px;
+  height:129.3px;
+  left: 1108.28px;
+  top:2050px;
+  mix-blend-mode:overlay;
+}
 
 .hoursText{
   position: absolute;
@@ -365,6 +365,7 @@ button:hover{
   font-size: 16px;
   line-height: 160%;
   color: #4B5D68;
+  mix-blend-mode: overlay;
 }
 
 .LM2{
@@ -380,7 +381,6 @@ button:hover{
   line-height: 160%;
   display: flex;
   align-items: center;
-  letter-spacing: 0.005em;
   color:#212353;
 }
 
@@ -418,6 +418,16 @@ button:hover{
   color:#4B5D68;
 }
 
+.printEllipse{
+  position: absolute;
+  height: 40.214253129070975px;
+  width: 68.05489460574759px;
+  left: 747.3291015625px;
+  top: 2337.8265380859375px;
+  border-radius: 0px;
+  
+}
+
 .LM3{
   position: absolute;
   height: 26px;
@@ -429,7 +439,6 @@ button:hover{
   font-style: normal;
   font-weight: 800;
   line-height: 26px;
-  letter-spacing: 0.005em;
   text-align: left;
   color:#212353;
 }
@@ -483,6 +492,26 @@ button:hover{
   letter-spacing: 0em;
   text-align: left;
   color:#4B5D68;
+}
+
+.ellipse61{
+  position: absolute;
+  mix-blend-mode: overlay;
+  height: 36.547477893513964px;
+  width: 61.84957533269474px;
+  left: 1275.2138671875px;
+  top: 2558.99853515625px;
+  border-radius: 0px;
+}
+
+.vector57{
+  position: absolute;
+  height: 188.28339598394177px;
+  width: 323.5768905412554px;
+  left: 940.2841796875px;
+  top: 2340.746337890625px;
+  border-radius: 0px;
+  mix-blend-mode: overlay;
 }
 
 .rectangle7{
