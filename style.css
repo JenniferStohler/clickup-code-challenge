@@ -422,17 +422,17 @@ button:hover{
   position: absolute;
   height: 40.214253129070975px;
   width: 68.05489460574759px;
-  left: 747.3291015625px;
+  left: 650.3291015625px;
   top: 2337.8265380859375px;
   border-radius: 0px;
-  
+  transform: rotate(150deg);
 }
 
 .LM3{
   position: absolute;
   height: 26px;
   width: 87px;
-  left: 500.28515625px;
+  left: 500.29px;
   top: 2580px;
   font-family: Helvetica;
   font-size: 16px;
@@ -549,3 +549,247 @@ button:hover{
   text-align: left;
   color:#212353;
 }
+
+.testRectangle{
+  height: 709px;
+  width: 1118px;
+  left: 242px;
+  top: 2789px;
+  border-radius: 50px;
+  background: #9C69E2;
+  position: absolute;
+}
+
+.testHeading{
+  position: absolute;
+  height: 52px;
+  width: 405px;
+  left: 335px;
+  top: 2898px;
+  color:#FFFFFF;
+  font-family:Helvetica;
+  font-style:normal;
+  font-weight:bold;
+  font-size: 40px;
+  line-height: 130%;
+  display:flex;
+  align-items: center;
+}
+
+.innerRectangle{
+  position:absolute;
+  width:645px;
+  height:330px;
+  left:335px;
+  top:3038px;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+  box-shadow: 0px 20px 0px rgba(156, 105, 226, 0.3);
+}
+
+.ellipse76{
+  position: absolute;
+  width:90px;
+  height:90px;
+  left:405px;
+  top:3098px;
+}
+
+.name1{
+  position: absolute;
+  width:170px;
+  height:29px;
+  left:525px;
+  top:3100px;
+  font-family:Helvetica;
+  font-weight:800;
+  font-style:normal;
+  font-size:18px;
+  line-height:28.8px;
+  letter-spacing: 0.5%;
+  color:#212353;
+}
+
+.job1{
+  position: absolute;
+  width:101px;
+  height:22px;
+  top:3147px;
+  left:525px;
+  font-family:Helvetica;
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  line-height:22.4px;
+  letter-spacing: 1%;
+  color:#9C69E2;
+}
+
+.cardText1{
+  position: absolute;
+  height: 130px;
+  width: 385px;
+  left: 525px;
+  top: 3188px;
+  border-radius: nullpx;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.innerRectangle2{
+  position: absolute;
+  height: 330px;
+  width: 400px;
+  left: 1000px;
+  top: 3038px;
+  border-radius: 20px;
+  background: linear-gradient(270deg, #FFFFFF 9.75%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 20px;
+  transform:rotate(180deg);
+}
+
+.ellipse77{
+  position: absolute;
+  height: 90px;
+  width: 90px;
+  left: 1040px;
+  top: 3093px;
+  border-radius: 0px;  
+}
+
+.name2{
+  position: absolute;
+  height: 29px;
+  width: 170px;
+  left: 1160px;
+  top: 3100px;
+  border-radius: nullpx;
+  color: #212353;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 29px;
+  letter-spacing: 0.005em;
+  text-align: left;
+}
+
+.job2{
+  position: absolute;
+  height: 22px;
+  width: 82px;
+  left: 1160px;
+  top: 3142px;
+  border-radius: nullpx;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  color:#9C69E2;
+}
+
+.cardText2{
+  position: absolute;
+  height: 130px;
+  width: 180px;
+  left: 1160px;
+  top: 3183px;
+  border-radius: nullpx;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+  color:#4B5D68;
+}
+
+.vector74{
+  position: absolute;
+  height: 2px;
+  width: 20px;
+  left: 1264px;
+  top: 3433px;
+  mix-blend-mode: normal;
+}
+
+.polygon{
+  position: absolute;
+  height: 14px;
+  width: 14.000000000000012px;
+  left: 1275px;
+  top: 3427px;
+  border-radius: 0px;
+  border: 0px solid #FFFFFF;
+  transform:rotate(360deg);
+}
+
+.vector75{
+  position: absolute;
+  height: 4px;
+  width: 40.00000000000015px;
+  left: 1200px;
+  top: 3433px;
+  border-radius: 0px;
+  transform: rotate(-180deg);
+}
+
+.polygon2{
+  position: absolute;
+  height: 20px;
+  width: 25px;
+  left: 1193px;
+  top: 3425px;
+  border-radius: 0px;
+  transform:rotate(-180deg);
+}
+
+.dot1{
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  left: 335px;
+  top: 3428px;
+  border-radius: 50px;
+  background-color: #F063B8;
+
+}
+.dot2{
+  position: absolute;
+  height: 5px;
+  width: 5px;
+  left: 355px;
+  top: 3431px;
+  border-radius: 50px;
+  background: #FFFFFF;
+}
+
+.dot3{
+  position: absolute;
+  height: 5px;
+  width: 5px;
+  left: 370px;
+  top: 3431px;
+  border-radius: 50px;
+  background-color: #FFFFFF;
+}
+
+.dot4{
+  position: absolute;
+  height: 5px;
+  width: 5px;
+  left: 385px;
+  top: 3431px;
+  border-radius: 50px;
+  background-color: #FFFFFF;
+}
+
