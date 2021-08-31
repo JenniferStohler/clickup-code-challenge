@@ -72,7 +72,7 @@ li a:hover{
   width: 20px;
   height: 0px;
   top: 77px;
-  left: 1311px;
+  left: 1314px;
   border: 2px solid #9C69E2;
   position: absolute;
   box-sizing: border-box;
@@ -81,8 +81,8 @@ li a:hover{
 .pointer{
   width: 14px;
   height: 14px;
-  top: 72.5px;
-  left: 1320.5px;
+  top: 72.4px;
+  left: 1323.5px;
   position:absolute;
   transform: rotate(360deg);
 }
@@ -281,17 +281,38 @@ button:hover{
 
 .LM1{
   position: absolute;
-  width: 87px;
-  height: 26px;
-  left: 500.29px;
-  top: 2172px;
+  left: 500.28515625px;
+  top: 2172.0009765625px;
+  border-radius: nullpx;
   font-family: Helvetica;
+  font-size: 16px;
   font-style: normal;
   font-weight: 800;
-  font-size: 16px;
-  line-height: 160%;
-  display: flex;
-  align-items:center;
+  line-height: 26px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  color:#212353;   
+}
+
+.vect1{
+  position: absolute;
+  height: 0px;
+  width: 20px;
+  left: 607.28515625px;
+  top: 2185.0009765625px;
+  border-radius: 0px;
+  border: 2px solid #9C69E2;
+  box-sizing: border-box;
+}
+
+.poly1{
+  position: absolute;
+  height: 14px;
+  width: 16px;
+  left: 615.28515625px;
+  top: 2180.0009765625px;
+  border-radius: 0px;  
+  mix-blend-mode: overlay;
 }
 
 .ellipse{
@@ -365,15 +386,12 @@ button:hover{
   font-size: 16px;
   line-height: 160%;
   color: #4B5D68;
-  mix-blend-mode: overlay;
 }
 
 .LM2{
   position: absolute;
-  width: 87px;
-  height: 26px;
   left: 1087.28px;
-  top: 2127px;
+  top: 2155px;
   font-family: Helvetica;
   font-weight: 900;
   font-style:normal;
@@ -382,6 +400,27 @@ button:hover{
   display: flex;
   align-items: center;
   color:#212353;
+}
+
+.vect2{
+  position: absolute;
+  height: 0px;
+  width: 20px;
+  left: 1194.2841796875px;
+  top: 2185.0006103515625px;
+  border-radius: 0px;
+  border: 2px solid #9C69E2;
+  box-sizing: border-box;
+}
+
+.poly2{
+  position: absolute;
+  height: 14px;
+  width: 16px;
+  left: 1203.2841796875px;
+  top: 2180.0006103515625px;
+  border-radius: 0px;
+  mix-blend-mode: overlay;
 }
 
 .printHeadline{
@@ -430,10 +469,8 @@ button:hover{
 
 .LM3{
   position: absolute;
-  height: 26px;
-  width: 87px;
   left: 500.29px;
-  top: 2580px;
+  top: 2550px;
   font-family: Helvetica;
   font-size: 16px;
   font-style: normal;
@@ -441,6 +478,29 @@ button:hover{
   line-height: 26px;
   text-align: left;
   color:#212353;
+  display: flex;
+  align-items: center;
+}
+
+.vect3{
+  position: absolute;
+  height: 0px;
+  width: 20px;
+  left: 607.29px;
+  top: 2580px;
+  border-radius: 0px;
+  border: 2px solid #9C69E2;
+  box-sizing: border-box;
+}
+
+.poly3{
+  position: absolute;
+  height: 14px;
+  width: 16px;
+  left: 615.29px;
+  top: 2575px;
+  border-radius: 0px;
+  mix-blend-mode: overlay;
 }
 
 .rectangle6{
@@ -467,7 +527,7 @@ button:hover{
   width: 200px;
   height: 50px;
   left: 1087.28px;
-  top: 2330px;
+  top: 2310px;
   font-family: Helvetica;
   font-size: 24px;
   font-style: normal;
@@ -482,7 +542,7 @@ button:hover{
   height: 160px;
   width: 220px;
   left: 1087.28px;
-  top: 2400px;
+  top: 2380px;
   position: absolute;
   font-family: Helvetica;
   font-size: 16px;
@@ -509,7 +569,7 @@ button:hover{
   height: 188.28339598394177px;
   width: 323.5768905412554px;
   left: 940.2841796875px;
-  top: 2340.746337890625px;
+  top: 2330.746337890625px;
   border-radius: 0px;
   mix-blend-mode: overlay;
 }
@@ -536,10 +596,8 @@ button:hover{
 
 .LM4{
   position: absolute;
-  height: 26px;
-  width: 87px;
   left: 1087.28px;
-  top: 2580px;
+  top: 2550px;
   font-family: Helvetica;
   font-size: 16px;
   font-style: normal;
@@ -548,6 +606,27 @@ button:hover{
   letter-spacing: 0.005em;
   text-align: left;
   color:#212353;
+}
+
+.vect4{
+  position: absolute;
+  height: 0px;
+  width: 20px;
+  left: 1194.28px;
+  top: 2580px;
+  border-radius: 0px;
+  border: 2px solid #9C69E2;
+  box-sizing: border-box;
+}
+
+.poly4{
+  position: absolute;
+  height: 14px;
+  width: 16px;
+  left: 1203.28px;
+  top: 2575px;
+  border-radius: 0px;
+  mix-blend-mode: overlay;
 }
 
 .testRectangle{
@@ -735,7 +814,7 @@ button:hover{
 
 .vector75{
   position: absolute;
-  height: 4px;
+  height: 2px;
   width: 40.00000000000015px;
   left: 1200px;
   top: 3433px;
@@ -745,10 +824,10 @@ button:hover{
 
 .polygon2{
   position: absolute;
-  height: 20px;
-  width: 25px;
-  left: 1193px;
-  top: 3425px;
+  height: 14px;
+  width: 14px;
+  left: 1195px;
+  top: 3427px;
   border-radius: 0px;
   transform:rotate(-180deg);
 }
@@ -860,7 +939,7 @@ button:hover{
 .footerbutton2{
   position: absolute;
   height: 60px;
-  width: 210px;
+  width: 220px;
   left: 1147px;
   top: 3771px;
   border-radius: 50px;
@@ -874,6 +953,26 @@ button:hover{
   line-height: 26px;
   letter-spacing: 0.005em;
   text-align: center;
+}
+
+.vect5{
+  position: absolute;
+  height: 2px;
+  width: 20px;
+  left: 1325px;
+  top: 3801px;
+  border-radius: 0px;
+  background-color: #9C69E2;  
+  box-sizing: border-box;
+}
+
+.poly5{
+  position: absolute;
+  height: 14px;
+  width: 16px;
+  left: 1333px;
+  top: 3795px;
+  border-radius: 0px;
 }
 
 .smallrectangle2{
